@@ -27,7 +27,7 @@
 
 <a href="https://www.linkedin.com/in/mohammedkaki44b8476a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-<a href="https://www.instagram.com/mohammed_kakii/?hl=en"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/mohammed_kakii/?hl=en"><img src="https://img.shields.io/badge/-@mohammed_kakii_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 <!-- - 🔭 I’m currently working on ...
