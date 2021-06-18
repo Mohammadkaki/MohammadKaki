@@ -1,4 +1,6 @@
 
+<a href="https://thumbs.gfycat.com/WeakIndolentJackrabbit-size_restricted.gif" >
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm an electrical engineer .\
