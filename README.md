@@ -1,5 +1,4 @@
-
-<a href="https://thumbs.gfycat.com/WeakIndolentJackrabbit-size_restricted.gif" >
+< img src="https://thumbs.gfycat.com/WeakIndolentJackrabbit-size_restricted.gif">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
