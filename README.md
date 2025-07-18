@@ -8,12 +8,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm an electrical engineer .\
-🎓 &nbsp;I'm develop web - Full stack.. (2021-2022). \
-🌱 &nbsp;I'm on track for learning more about JavaScript.\
-✍️ &nbsp;In my free time, I play video games, and sport in gernral .\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at Mohammed-kaki@hotmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my in [Resume]([www.linkedin.com/in/mohammedkaki44b8476a](https://www.linkedin.com/in/mohammedkaki44b8476a/)) for more details about work experience.
+🎓 &nbsp; I'm develop web - Full stack.. (2021-2022). \
+🌱 &nbsp; I'm on track for learning more about JavaScript.\
+✍️ &nbsp; In my free time, I play video games, and sport in gernral .\
+💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp; You can email me at Mohammed-kaki@hotmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp; You can check my in [Resume](https://www.linkedin.com/in/mohammedkaki44b8476a/) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
